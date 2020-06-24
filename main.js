@@ -1,5 +1,5 @@
 ﻿load.initialize('Initialize', async function() {
-	// RUS 1
+	// RUS 2
 });
 
 load.action('Action', async function() {
